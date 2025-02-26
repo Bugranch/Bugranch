@@ -6,16 +6,49 @@
 
 </div>
 
-## 🛠 Technologies
-<div align="center">
+### 🛠️ Skills
+
+#### 🐧 **Operating Systems & Linux**
+<div align="left">
   
- [![My Skills](https://skillicons.dev/icons?i=powershell,bash,ansible,jenkins,openshift,kubernetes,docker,postgres,mysql&perline=5)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=redhat,ubuntu,linux)](https://skillicons.dev)
 
 </div>
 
-## 🛠 Tools
-<div align="center">
+#### 💻 **Programming Languages**
+<div align="left">
   
- [![My Skills](https://skillicons.dev/icons?i=redhat,ubuntu,linux,grafana,prometheus,kali,vim,ps,github&perline=5)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=powershell,bash,python)](https://skillicons.dev)
 
 </div>
+
+#### 🐳 **Automation, Containers & Orchestration**
+
+<p align="left">
+  
+[![My Skills](https://skillicons.dev/icons?i=ansible,jenkins,openshift,kubernetes,docker)](https://skillicons.dev)
+
+</p>
+
+#### 🛢️ **Databases**
+<p align="left">
+  
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+
+</p>
+
+#### 📊 **Monitoring & Observability**
+
+<p align="left">
+  
+[![My Skills](https://skillicons.dev/icons?i=grafana,prometheus)](https://skillicons.dev)
+
+</p>
+
+#### 🖥️ **Tools**
+
+<p align="left">
+  
+[![My Skills](https://skillicons.dev/icons?i=ps,vim,atom,github)](https://skillicons.dev)
+
+</p>
