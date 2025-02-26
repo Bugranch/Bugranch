@@ -11,7 +11,7 @@
 #### 🐧 **Operating Systems**
 <div align="left">
   
- [![My Skills](https://skillicons.dev/icons?i=redhat,ubuntu,linux)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=redhat,ubuntu,debian,linux,windows)](https://skillicons.dev)
 
 </div>
 
@@ -33,7 +33,7 @@
 #### 🛢️ **Databases**
 <p align="left">
   
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite)](https://skillicons.dev)
 
 </p>
 
@@ -49,6 +49,6 @@
 
 <p align="left">
   
-[![My Skills](https://skillicons.dev/icons?i=ps,vim,atom,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,vim,atom,git,github)](https://skillicons.dev)
 
 </p>
