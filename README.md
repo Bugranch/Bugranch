@@ -8,7 +8,7 @@
 
 ### 🛠️ Skills
 
-#### 🐧 **Operating Systems & Linux**
+#### 🐧 **Operating Systems**
 <div align="left">
   
  [![My Skills](https://skillicons.dev/icons?i=redhat,ubuntu,linux)](https://skillicons.dev)
