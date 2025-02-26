@@ -9,6 +9,13 @@
 ## 🛠 Technologies
 <div align="center">
   
- [![My Skills](https://skillicons.dev/icons?i=powershell,bash,ansible,jenkins,openshift,kubernetes,docker,postgres,kali,vim&theme=light&perline=5)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=powershell,bash,ansible,jenkins,openshift,kubernetes,docker,postgres,mysql&perline=5)](https://skillicons.dev)
+
+</div>
+
+## 🛠 Tools
+<div align="center">
+  
+ [![My Skills](https://skillicons.dev/icons?i=redhat,ubuntu,linux,grafana,prometheus,kali,vim,ps,github&perline=5)](https://skillicons.dev)
 
 </div>
