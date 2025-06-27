@@ -11,7 +11,7 @@
 #### 🐧 **Operating Systems**
 <div align="left">
   
- [![My Skills](https://skillicons.dev/icons?i=redhat,ubuntu,debian,linux,kali,windows)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=redhat,ubuntu,debian,kali,linux,windows)](https://skillicons.dev)
 
 </div>
 
